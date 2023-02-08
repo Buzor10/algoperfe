@@ -13,5 +13,5 @@ The stage is set, our audience is waiting!
 
 ## Author
 Chibuzor Martins Ani
-- [Twitter]("https://twitter.com/ChibuzorAni5")
-- [Linkedin]("https://www.linkedin.com/in/chibuzor-ani-38a449173")
+- [Twitter](https://twitter.com/ChibuzorAni5)
+- [Linkedin](https://www.linkedin.com/in/chibuzor-ani-38a449173)
