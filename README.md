@@ -1,4 +1,4 @@
-# Algorand Perfect - Elevating your NFT project to new heights
+# Algorand Perfect - Elevating Algorans NFTs to new heights
 
 ## Introduction
 
