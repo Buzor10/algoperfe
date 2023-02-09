@@ -2,7 +2,9 @@
 
 ## Introduction
 
-A solution that proves the age-old saying, "a product is only as good as the exposure it gets." Algoperfe (Algorand Perfect), is a comprehensive and well researched marketing strategy proposed to reach more than half a million untapped users in Africa, and make a lasting impact on the global NFT landscape. 
+```a product is only as good as the exposure it gets``` 
+
+Algoperfe (Algorand Perfect), is a comprehensive and well researched marketing strategy proposed to reach more than half a million untapped users in Africa, and make a lasting impact on the global NFT landscape. 
 
 The stage is set, our audience is waiting!
 
